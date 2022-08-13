@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="3DCubeEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3DCubeEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

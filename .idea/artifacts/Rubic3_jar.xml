@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rubic3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rubic3_jar</output-path>
+    <root id="archive" name="Rubic3.jar">
+      <element id="module-output" name="Rubic3" />
+      <element id="module-output" name="3DCubeEngine" />
+      <element id="module-output" name="UnityMath" />
+    </root>
+  </artifact>
+</component>

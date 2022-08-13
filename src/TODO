@@ -1,0 +1,22 @@
+/**
+ *                  This is the Cubic Rubic
+ *
+ *          TODO Create function for rotate only one peace cube's
+ *          TODO Create Function for assembly  and random disassembly
+ *          TODO 27.07.22 Create user interface and explore why timer in Build dont work from button
+ *          Update Function Build for cubic n x n
+ *          Update 3DEngine for load .obj file from specify directory
+ *          Update for possibility build cubic by user hand
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * */
